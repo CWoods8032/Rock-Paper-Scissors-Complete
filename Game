@@ -23,7 +23,7 @@ while True:
 
     elif player == "paper":
         if computer == "rock":
-            print("Papaer covers rock. You win!")
+            print("Paper covers rock. You win!")
             player_wins += 1
         else:
             print("Scissors cuts paper. You lose.")
